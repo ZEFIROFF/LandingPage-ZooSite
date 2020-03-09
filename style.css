@@ -291,7 +291,7 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
-@media screen and (min-width: 360px) and (max-width:768px) {
+@media screen and (min-width: 320px) and (max-width:768px) {
     .header_block_menu {
         background-color: #181818;
         display: flex;
